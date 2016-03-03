@@ -32,7 +32,7 @@ This is just a demo. It has a router and a few view components:
 
 ## Authors
 
-* MisfitsMK (https://github.com/MisfitsMK/Angular2_TourOfHeroesDemo)
+* MisfitsMK (https://github.com/MisfitsMK/)
 
 
 
